@@ -108,17 +108,17 @@ public boolean setze(int x, int y, int player){
     return "";
   }
 
-  public static void main(String[] args){
-    TicTacToe t = new TicTacToe(3);
-    System.out.println(t.toString());
-    System.out.println("------------------");
-    System.out.println();
-    
-    
-    t.arrayAusgeben();
-    
-    System.out.println(t.spielBeendet());
-    
-  }
+//  public static void main(String[] args){
+//    TicTacToe t = new TicTacToe(3);
+//    System.out.println(t.toString());
+//    System.out.println("------------------");
+//    System.out.println();
+//    
+//    
+//    t.arrayAusgeben();
+//    
+//    System.out.println(t.spielBeendet());
+//    
+//  }
   
 }
